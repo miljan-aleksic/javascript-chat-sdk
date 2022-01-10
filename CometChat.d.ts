@@ -1506,7 +1506,7 @@ export const READ_RECEIPTS: {
     TIME: string;
     READ_BY_ME_AT: string;
 };
-export const MessageConstatnts: {
+export const MessageConstants: {
     TYPE: {
         TEXT: string;
         MEDIA: string;
